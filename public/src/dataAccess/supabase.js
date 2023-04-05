@@ -18,4 +18,3 @@ console.log('Supabase Instance: ', Supabase);
 export  {
   Supabase
 };
-
